@@ -16,7 +16,6 @@
 </p>
 
 <br/>
-<br/>
 
 <h3 align="center"> 🚀 Tech Stack </h3>
 
@@ -42,7 +41,6 @@
   
 </div>
 
-<br/>
 <br/>
 
 <h3> Contacts 📡 </h3>
