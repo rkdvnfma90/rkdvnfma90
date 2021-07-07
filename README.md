@@ -11,7 +11,7 @@
 <div align="center">
   <p text-align="left">
     I'm a developer who wants to grow up 💪 </br>
-    I'm interested in the Frontend 💻 </br>
+    I want to develop it pleasantly 💻 </br>
   </p>
 </p>
 
