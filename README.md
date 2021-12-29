@@ -46,7 +46,7 @@
 <h3> Contacts 📡 </h3>
 
 <div align="center">
-  <a href="https://rkdvnfma90.tistory.com" target="_blank">
+  <a href="https://rkdvnfma90.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Blog-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"/>
   </a>
   
