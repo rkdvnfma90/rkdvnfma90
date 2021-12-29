@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://rkdvnfma90.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-f74e00?style=for-the-badge&logo=Thumbtack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"/>
   </a>
   
   <a href="mailto:rkdvnfma90@gmail.com" target="_blank">
